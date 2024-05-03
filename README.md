@@ -1,1 +1,1 @@
-This repository has utilities and services used by the .NET engineering services team.
+This repository has utilities and services used by the .NET engineering services crew.
